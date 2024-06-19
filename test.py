@@ -13,7 +13,7 @@ import sys
 
 '''
 AutomText. Una herramienta orientada al procesamiento de macrodatos.
-Juan Esteban Urrea C.
+
 
 
 '''
